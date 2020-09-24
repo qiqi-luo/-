@@ -12,3 +12,7 @@ In a team of 3, we identified the original pricing model under a new business mo
 •	 最小二乘法多元线性回归模型达到90%以上的拟合度
 •  提高了62%的任务的完成概率通过用logit模型来平滑原模型中距离这一变量
 •	 赢得北京市一等奖
+
+CUMCM-2017-problem-B:  问题描述
+附件一至三： 数据集
+拍照定价建模 B： 解决方案
